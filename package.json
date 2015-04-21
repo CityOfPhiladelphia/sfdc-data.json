@@ -1,0 +1,15 @@
+{
+  "name": "sfdc-data.json",
+  "version": "1.0.0",
+  "description": "Maps the Salesforce.com REST API to data.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "City of Philadelphia",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.55.0",
+    "underscore": "^1.8.3"
+  }
+}
